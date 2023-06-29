@@ -1,0 +1,205 @@
+{
+  "main": {
+    "image":"profilepic.jpg",
+    "bio":"I work in the field of Human-Computer Interaction (HCI). I enjoy designing, developing, and testing interactive experiences. Specifically, Virtual Reality (VR) experiences, and Web3 systems for Civic Tech.",
+    "phd": "I earned my PhD from the Technical University Berlin and the University of Technology Sydney (joint program), where I conducted research at the intersection between emotions, neurotechnology and VR. Currently, I am working at the University of Sydney as a Lecturer in Design for VR and Emergent Technologies.",
+    "contactmessage":"Let's talk!",
+    "email": "andres.pinilla@sydney.edu.au",
+    "github":"https://github.com/aepinilla",
+    "resumedownload":"CV-AndresPinilla.pdf",
+    "social":[
+      {
+        "name":"ORCID",
+        "url":"https://orcid.org/0000-0002-0812-7896",
+        "className":"fa-brands fa-orcid"
+      },
+      {
+        "name":"GitHub",
+        "url":"https://github.com/aepinilla/",
+        "className":"fa-brands fa-github"
+      },
+      {
+        "name":"ResearchGate",
+        "url":"https://www.researchgate.net/profile/Andres-Pinilla-4",
+        "className":"fa-brands fa-researchgate"
+      },
+      {
+        "name":"Google Scholar",
+        "url":"https://scholar.google.com/citations?user=4KoPCvcAAAAJ&hl=en",
+        "className":"google-scholar-icon"
+      },
+      {
+        "name":"LinkedIn",
+        "url":"https://www.linkedin.com/in/andres-pinilla-palacios/",
+        "className":"fa-brands fa-linkedin"
+      },
+      {
+        "name":"OSF",
+        "url":"https://osf.io/ykaw3/",
+        "className":"osf-icon"
+      },
+      {
+        "name":"Email",
+        "url":"mailto:andres.pinilla@sydney.edu.au",
+        "className":"fa-solid fa-envelope"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Inferring emotions from brain activity in VR",
+        "subtitle": "This is a technique to assess VR users' affective states based on their electroencephalography (EEG) activity.",
+        "image":"01.jpg",
+        "url":""
+      },
+      {
+        "title":"Visual representation of affective states in VR",
+        "subtitle": "How to create abstract visual cues of VR users' emotions?",
+        "image":"02.jpg",
+        "url":""
+      },
+      {
+        "title":"Testigos.co",
+        "subtitle": "Empowering citizens to audit elections using Web3 technologies",
+        "image":"03.jpg",
+        "url":""
+      },
+      {
+        "title":"Grassroot",
+        "subtitle": "",
+        "image":"04.jpg",
+        "url":""
+      }
+    ]
+  },
+  "contributions":{
+    "paper": [
+      {
+        "authors": "Pinilla, A., Voigt-Antons, J.N., Garcia, J., Raffe, W., Möller S. (2022).",
+        "title":"Real-time affect detection in virtual reality: a technique based on a three-dimensional model of affect and EEG signals.",
+        "journalinfo": "Frontiers in Virtual Reality, vol. 3, p. 964754, doi: 10.3389/frvir.2022.964754.",
+        "url":"https://www.frontiersin.org/articles/10.3389/frvir.2022.964754/pdf"
+      },
+      {
+        "authors": "Pinilla, A., Garcia, J., Raffe, W., Voigt-Antons, J.N., Spang, R., Möller, S. (2021).",
+        "title":"Affective Visualization in Virtual Reality: An Integrative Review.",
+        "journalinfo": "Frontiers in Virtual Reality, vol. 2, p. 630731, 2021, doi: 10.3389/frvir.2021.630731.",
+        "url":"https://www.frontiersin.org/articles/10.3389/frvir.2021.630731/pdf"
+      },
+      {
+        "authors": "Pinilla, A., Neira, J., Tamayo R. M. (2020).",
+        "title":"How do Induced Affective States Bias Emotional Contagion to Faces? A three-dimensional model.",
+        "journalinfo": "Frontiers in Psychology, vol. 11, doi: 10.3389/fpsyg.2020.00097.",
+        "url":"https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00097/pdf"
+      },
+      {
+        "authors": "Voigt-Antons, J., Lehtonen, E., Pinilla A., Ali, D., Kojic, T., Möller S. (2020).",
+        "title":"Comparing Emotional States Induced by 360° Videos Via Head-Mounted Display and Computer Screen.",
+        "journalinfo": "QoMex 2020. doi: 10.1109/QoMEX48832.2020.9123125.",
+        "url":"https://ieeexplore.ieee.org/document/9123125"
+      },
+      {
+        "authors": "Perkins et al (2020).",
+        "title":"QUALINET White Paper on Definitions of Immersive Media Experience (IMEx).",
+        "journalinfo": "doi: 10.48550/arXiv.2007.07032",
+        "url":"https://www.researchgate.net/publication/342944671_QUALINET_White_Paper_on_Definitions_of_Immersive_Media_Experience_IMEx"
+      },
+      {
+        "authors": "Tamayo et al (2017).",
+        "title":"Construcción y Evaluación de Advertencias Sanitarias Sobre el Consumo de Tabaco en Colombia Basadas en Evidencia Científica (Construction and Evaluation of Sanitary Warnings About Tobacco Consumption Based On Scientific Evidence).",
+        "journalinfo": "Technical Report. National University of Colombia. doi: 10.13140/RG.2.2.14067.25128.",
+        "url":"https://www.researchgate.net/publication/355215631_Construccion_y_Evaluacion_de_Advertencias_Sanitarias_Sobre_el_Consumo_de_Tabaco_en_Colombia_Basadas_en_Evidencia_Cientifica"
+      }
+    ]
+  },
+  "resume":{
+    "skills":[
+      {
+        "name":"Electrophysiology (EEG, EMG, ECG)",
+        "level":"90%"
+      },
+      {
+        "name":"Inferential Statistics",
+        "level":"90%"
+      },
+      {
+        "name":"Experimental Design",
+        "level":"90%"
+      },
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name":"C# & Unity",
+        "level":"70%"
+      },
+      {
+        "name":"R",
+        "level":"60%"
+      },
+      {
+        "name":"Figma",
+        "level":"80%"
+      },
+      {
+        "name":"React Native & Expo",
+        "level":"30%"
+      }
+    ],
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "work":[
+      {
+        "company":"University of Sydney",
+        "title":"Associate Lecturer - Education Focused",
+        "years":"January 2023 - Present",
+        "description":"Lecturing and coordinating a group of tutors. My teaching is focused on interaction design, Virtual Reality, and Emergent Technologies."
+      },
+      {
+        "company":"Technical University Berlin",
+        "title":"Research Assistant / Scholarhsip PhD Student",
+        "years":"January 2019 - December 2022",
+        "description":"Conducted research related to emotional responses in Virtual Reality. Experience using Electroencephalography (EEG) signals to infer people's emotional states."
+      },
+      {
+        "company":"Independent",
+        "title":"UI/UX Designer & Front-End Developer",
+        "years":"January 2012 - December 2018",
+        "description":"Designed and developed websites for companies in Latin America, United States and Europe."
+      },
+      {
+        "company":"National University of Colombia",
+        "title":"Senior Graphics Designer",
+        "years":"2017 - 2018",
+        "description":"Design the Tobacco Health Warnings for the period 2018 - 2019 that were used in all the cigarrette boxes distributed in Colombia."
+      }
+    ],    
+    "education":[
+      {
+        "school":"Technical University Berlin & University of Technology Sydney",
+        "degree":"PhD",
+        "graduated":"March 2022",
+        "description":"Research Assistant / Scholarhsip PhD Student",
+        "thesis": "Affective visualization in Virtual Reality Systems",
+        "advisors": "Prof. Dr. -Ing. Sebastian Möller, Prof. Dr. -Ing. Jan-Niklas Voigt-Antons, Dr. Jaime Garcia, Dr. William Raffe."
+      },
+      {
+        "school":"National University of Colombia",
+        "degree":"Master’s Degree in Psychology - Emphasis: Research in implicit cognition",
+        "graduated":"September 2017",
+        "description":"",
+        "thesis": "Contagio Emocional: Incidencia de los estados emocionales sobre la evaluación de expresiones faciales (”Emotional Contagion: Incidence of emotional estates on the evaluation of facial expressions”)",
+        "advisors": "Prof. Dr. Ricardo M. Tamayo"
+      },
+      {
+        "school":"University of Palermo",
+        "degree":"Bacherlor's in Advertising Art Direction",
+        "graduated":"June 2013",
+        "description":"",
+        "thesis": "“La contra-revolución digital: la publicidad como mecanismo de control social en la era de las TICs” (Digital Counter-Revolution: Advertising as social control mechanism in the information and Communication Technologies era”).",
+        "advisors": "Dra. Analía Faccia"
+      }
+    ]
+  }  
+}
