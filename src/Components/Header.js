@@ -80,6 +80,8 @@ const Header = (props) => {
         </ul>
       </nav>
 
+      {/* <div className="backround-header">H</div> */}
+
       <div className="row banner">
         <div className="banner-text">
           {/* <Fade bottom>
