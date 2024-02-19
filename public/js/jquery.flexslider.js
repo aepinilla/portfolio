@@ -215,7 +215,7 @@
               item = (slider.vars.controlNav === "thumbnails") ? '<img src="' + slide.attr( 'data-thumb' ) + '"/>' : '<a>' + j + '</a>';
               if ( 'thumbnails' === slider.vars.controlNav && true === slider.vars.thumbCaptions ) {
                 var captn = slide.attr( 'data-thumbcaption' );
-                if ( '' != captn && undefined != captn ) item += '<span class="' + namespace + 'caption">' + captn + '</span>';
+                if ( '' != captn && undefined != captn ) item += '<span className="' + namespace + 'caption">' + captn + '</span>';
               }
               slider.controlNavScaffold.append('<li>' + item + '</li>');
               j++;

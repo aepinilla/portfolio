@@ -1,12 +1,12 @@
 {
   "main": {
     "image":"profilepic.jpg",
-    "bio":"I work in the field of Human-Computer Interaction (HCI). I enjoy designing, developing, and testing interactive experiences. Specifically, Virtual Reality (VR) experiences, and Web3 systems for Civic Tech.",
-    "phd": "I earned my PhD from the Technical University Berlin and the University of Technology Sydney (joint program), where I conducted research at the intersection between emotions, neurotechnology and VR. Currently, I am working at the University of Sydney as a Lecturer in Design for VR and Emergent Technologies.",
+    "bio":"My research explores the role of emotions in User Experience (UX) for emergent technologies, including Virtual Reality (VR), Brain-Computer Interfaces (BCI), and Web3, with applications in mental healthcare and civic technologies. I have experience working as a Lecturer in Design at the University of Sydney and University of New South Wales (UNSW). My teaching is focused on design for emergent technologies, with a strong focus on VR and BCI.",
+    "phd": "I earned a PhD from the Technical University Berlin and the University of Technology Sydney (joint program), where I conducted research at the intersection between emotions, neurotechnology and VR. Prior to that, I completed a master’s by research in Psychology at the National University of Colombia and a bachelor’s in Graphics Design at the University of Palermo (Argentina).",
     "contactmessage":"Let's talk!",
     "email": "andres.pinilla@sydney.edu.au",
     "github":"https://github.com/aepinilla",
-    "resumedownload":"CV-AndresPinilla.pdf",
+    "resumedownload":"AndresPinillaResume.pdf",
     "social":[
       {
         "name":"ORCID",
@@ -148,12 +148,17 @@
         "level":"30%"
       }
     ],
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "work":[
+      {
+        "company":"Testigos.co",
+        "title":"Initiator",
+        "years":"December 2022 - Present",
+        "description":"Building a Web3 platform to audit election results using data reported by election observers."
+      },
       {
         "company":"University of Sydney",
         "title":"Associate Lecturer - Education Focused",
-        "years":"January 2023 - Present",
+        "years":"January 2023 - December 2023",
         "description":"Lecturing and coordinating a group of tutors. My teaching is focused on interaction design, Virtual Reality, and Emergent Technologies."
       },
       {

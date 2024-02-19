@@ -33,7 +33,9 @@
       letter-spacing: -1px;      
    }
    header .banner-text h3 {
-      font: 17px/1.9em 'librebaskerville-regular', serif;
+      font: 17px/1.9em 'opensans-bold', sans-serif;
+      color: #638DA2;
+      letter-spacing: .1rem;
       width: 80%;
    }
    header .banner-text hr {
@@ -193,13 +195,25 @@
    }
    header .banner-text h1 { font: 68px/1.1em 'opensans-bold', sans-serif; }
    header .banner-text h3 {
-      font: 16px/1.9em 'librebaskerville-regular', serif;
+      font: 16px/1.9em 'opensans-bold', sans-serif;
       width: 85%;
+      color: #638DA2;
+      letter-spacing: .1rem;
    }
    header .banner-text hr {
       width: 80%;
       margin: 18px auto;
    }
+
+   header .banner-text .name {
+      font-size: 35px;
+      margin-top: 10px;
+    }
+
+   header .banner-text .description {
+      font-size: 35px;
+      margin-top: 20px;
+    }
 
    /* header social links */
    header .social {
@@ -233,7 +247,16 @@
    }
    #resume h1 { letter-spacing: 3px; }
    #resume .main-col { padding-right: 30px; }
-   #resume h3, #resume .info { text-align: center; }
+   #resume h3,
+   #resume .info,
+   #resume .date,
+   #resume .description,
+   #resume .degree,
+   #resume .graduation-date,
+   #resume .thesis,
+   #resume .advisors {
+      text-align: center;
+   }
       
    .bars { width: 100%; }
 
@@ -355,8 +378,10 @@
       margin: 0 auto 24px auto;
    }
    header .banner-text h3 {
-      font: 14px/1.9em 'librebaskerville-regular', sans-serif;
       width: 90%;
+      font: 16px/1.9em 'opensans-bold', sans-serif;
+      color: #638DA2;
+      letter-spacing: .1rem;
    }
   
    /* header social links */

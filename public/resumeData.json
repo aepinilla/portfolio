@@ -1,7 +1,7 @@
 {
   "main": {
     "image":"profilepic.jpg",
-    "bio":"I work in the field of Human-Computer Interaction (HCI). I enjoy designing, developing, and testing interactive experiences. Specifically, Virtual Reality (VR) experiences, and Web3 systems for Civic Tech.",
+    "bio":"I am a researcher in Human-Computer Interaction (HCI). I enjoy designing, developing, and testing interactive experiences. Specifically, Virtual Reality (VR) experiences, and Web3 systems for Civic Tech.",
     "phd": "I earned my PhD from the Technical University Berlin and the University of Technology Sydney (joint program), where I conducted research at the intersection between emotions, neurotechnology and VR. Currently, I am working at the University of Sydney as a Lecturer in Design for VR and Emergent Technologies.",
     "contactmessage":"Let's talk!",
     "email": "aepinilla.research@gmail.com",
@@ -27,6 +27,11 @@
         "name":"Google Scholar",
         "url":"https://scholar.google.com/citations?user=4KoPCvcAAAAJ&hl=en",
         "className":"google-scholar-icon"
+      },
+      {
+        "name":"Twitter",
+        "url":"https://twitter.com/aepinilla",
+        "className":"fa-brands fa-twitter"
       },
       {
         "name":"LinkedIn",
@@ -155,6 +160,12 @@
         "title":"Associate Lecturer - Education Focused",
         "years":"January 2023 - Present",
         "description":"Lecturing and coordinating a group of tutors. My teaching is focused on interaction design, Virtual Reality, and Emergent Technologies."
+      },
+      {
+        "company":"Testigos.co",
+        "title":"Project initiator",
+        "years":"January 2023 - Present",
+        "description":"Building a Decentralised Autonomous Organisation (DAO) for community-driven elections auditing. The aim of the project is enabling citizens to audit democratic elections using Distributed Ledger Technologies (DLTs)."
       },
       {
         "company":"Technical University Berlin",

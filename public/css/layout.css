@@ -77,18 +77,47 @@ header .banner-text {
    width: 100%;
    /* background-color: rgba(255, 255, 255, .5) */
 }
+
+header .banner-text .name {
+   font: 'sans-serif';
+   font-size: 40px;
+   font-weight: 700;
+   color: '#231F20';
+   margin-top: 70px;
+ }
+
+ header .banner-text .description {
+   font: 'sans-serif';
+   font-size: 40px;
+   padding: 0;
+   font-weight: 700;
+   color: '#231F20';
+   margin-top: 30px;
+   color: '#231F20',
+ }
+
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
    color: #fff;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
 }
+
 header .banner-text h3 {
-   font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #ddd;
+   font: 25px 'opensans-bold', sans-serif;
+   letter-spacing: .01rem;
+   color: #504f4f;
    margin: 0 auto;
-   width: 70%;
+   text-transform: uppercase;
+   width: 100%;
 }
+
+header .banner-text h3 .focusarea {
+   color: #638DA2;
+}
+
+
+
 header .banner-text h3 span,
 header .banner-text h3 a {
    color: #fff;
@@ -1232,7 +1261,7 @@ footer .social-links .osf-icon:hover::before {
 
 
 .social .btn:first-child{
-   margin-right: 30px;
+   /* margin-right: 30px; */
    border-radius: 30px;
 }
 .social .btn{

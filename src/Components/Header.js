@@ -1,37 +1,20 @@
 import React from "react";
-import ParticlesBg from "particles-bg";
+// import ParticlesBg from "particles-bg";
 import Fade from "react-awesome-reveal";
 
 const Header = (props) => {
   const github = props.data.github;
 
-  const descriptionStyles = {
-    fontFamily: 'sans-serif',
-    fontSize: 50,
-    padding: 0,
-    fontWeight: 700,
-    color: '#231F20',
-    marginTop: 30,
-  }
-
-  const nameStyles = {
-    fontFamily: 'sans-serif',
-    fontSize: 50,
-    fontWeight: 700,
-    color: '#231F20',
-    marginTop: 70,
-  }
-
-  const hiStyles = {
-    fontFamily: 'sans-serif',
-    fontSize: 60,
-    fontWeight: 700,
-    color: '#231F20',
-  }
+  // const hiStyles = {
+  //   fontFamily: 'sans-serif',
+  //   fontSize: 60,
+  //   fontWeight: 700,
+  //   color: '#231F20',
+  // }
   
   return (
     <header id="home">
-      <ParticlesBg type="cobweb" bg={true}/>
+      {/* <ParticlesBg type="cobweb" bg={true}/> */}
 
       <nav id="nav-wrap">
         <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
@@ -88,10 +71,11 @@ const Header = (props) => {
             <h1 style={hiStyles}>Hi.</h1>
           </Fade> */}
           <Fade bottom>
-            <h2 style={nameStyles}>My name is <span className='highlight-blue'>Andres Pinilla</span></h2>
+            <h2 className="name">Hi, my name is <span className='highlight-blue'>Andres Pinilla</span></h2>
           </Fade>
           <Fade bottom duration={1200}>
-            <h2 style={descriptionStyles}>I am a <span className='highlight-red'>UX Research Scientist</span></h2>
+            <h2 className="description"><span className='highlight-red'>I am curious about</span> people and technology</h2>
+            {/* <h3>Currently Focused on <span className="focusarea">Virtual Reality</span> and <span className="focusarea">Civic Technologies</span></h3> */}
           </Fade>
           <hr />
           <Fade bottom duration={2000}>
