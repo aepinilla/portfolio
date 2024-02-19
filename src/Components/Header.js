@@ -37,15 +37,15 @@ const Header = (props) => {
             </a>
           </li>
 
-          {/* <li>
-            <a className="smoothscroll" href="#portfolio">
+          <li>
+            <a className="" href="https://www.behance.net/andrespinilla7" target="blank">
               Portfolio
             </a>
-          </li> */}
+          </li>
 
           <li>
             <a className="smoothscroll" href="#contributions">
-              Research
+              Publications
             </a>
           </li>
 
